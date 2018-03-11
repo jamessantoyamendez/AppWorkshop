@@ -1,0 +1,8 @@
+{
+  "name": "AppWorkshop",
+  "app_id": "0a40d813",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
